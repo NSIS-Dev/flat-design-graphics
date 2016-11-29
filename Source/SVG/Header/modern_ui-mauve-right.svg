@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="150px"
+	height="57px" viewBox="0 0 150 57" enable-background="new 0 0 150 57" xml:space="preserve">
+	<g id="Background">
+		<rect fill="#76608a" width="150" height="57"/>
+	</g>
+	<g id="Foreground">
+		<g>
+			<polygon fill="#FFFFFF" points="134.153,39.542 134.153,28.474 128.619,34.007"/>
+			<polygon fill="#FFFFFF" points="134.153,25.745 134.153,14.675 128.619,20.21"/>
+			<polygon fill="#FFFFFF" points="119.556,13.876 108.486,13.876 114.021,19.41"/>
+			<polygon fill="#FFFFFF" points="126.455,20.774 115.387,20.774 120.921,26.31"/>
+			<polygon fill="#FFFFFF" points="120.921,14.11 115.387,19.644 126.455,19.644"/>
+			<polygon fill="#FFFFFF" points="127.82,33.208 129.44,31.587 133.354,27.673 122.285,27.673"/>
+			<polygon fill="#FFFFFF" points="133.354,26.544 127.82,21.009 122.285,26.544"/>
+			<polygon fill="#FFFFFF" points="109.632,16.619 109.632,27.688 115.166,22.153"/>
+			<polygon fill="#FFFFFF" points="109.632,30.417 109.632,41.485 115.166,35.952"/>
+			<polygon fill="#FFFFFF" points="124.229,42.286 135.299,42.286 129.764,36.751 128.142,38.372"/>
+			<polygon fill="#FFFFFF" points="117.329,35.386 128.398,35.386 122.864,29.853"/>
+			<polygon fill="#FFFFFF" points="122.864,42.052 124.485,40.431 128.398,36.517 117.329,36.517"/>
+			<polygon fill="#FFFFFF" points="110.432,28.487 121.5,28.487 115.965,22.954"/>
+			<polygon fill="#FFFFFF" points="110.432,29.618 114.345,33.532 115.965,35.151 121.5,29.618"/>
+		</g>
+		<path fill="#FFFFFF" d="M102.555,8.743v38.676h38.676V8.743H102.555z M138.694,44.882h-33.604V11.279h33.604V44.882z"/>
+	</g>
+</svg>
