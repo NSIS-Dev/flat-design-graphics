@@ -1,0 +1,16 @@
+{
+  "name": "flat-design-graphics",
+  "version": "0.0.0",
+  "description": "Flat design graphics for MUI welcome/finish pages and headers",
+  "author": "idleberg",
+  "license": "CC-BY-SA-4.0",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-debug": "^3.0.0",
+    "gulp-xml-validator": "^0.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
