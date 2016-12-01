@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="164px"
+	 height="314px" viewBox="0 0 164 314" enable-background="new 0 0 164 314" xml:space="preserve">
+<g id="Background">
+	<rect fill="#867991" width="164" height="314"/>
+</g>
+<g id="Foreground" opacity="1">
+	<g id ="Logo">
+		<polygon fill="#ffffff" points="135.838,65.577 135.838,48.119 127.109,56.848"/>
+		<polygon fill="#ffffff" points="135.838,43.815 135.838,26.357 127.109,35.085"/>
+		<polygon fill="#ffffff" points="112.814,25.096 95.356,25.096 104.086,33.824"/>
+		<polygon fill="#ffffff" points="123.696,35.977 106.239,35.977 114.967,44.706"/>
+		<polygon fill="#ffffff" points="114.967,25.465 106.239,34.194 123.696,34.194"/>
+		<polygon fill="#ffffff" points="125.849,55.587 128.405,53.03 134.576,46.858 117.119,46.858"/>
+		<polygon fill="#ffffff" points="134.576,45.075 125.849,36.346 117.119,45.075"/>
+		<polygon fill="#ffffff" points="97.162,29.422 97.162,46.881 105.891,38.152"/>
+		<polygon fill="#ffffff" points="97.162,51.185 97.162,68.643 105.891,59.914"/>
+		<polygon fill="#ffffff" points="120.186,69.904 137.644,69.904 128.914,61.175 126.356,63.73"/>
+		<polygon fill="#ffffff" points="109.303,59.022 126.761,59.022 118.032,50.294"/>
+		<polygon fill="#ffffff" points="118.032,69.534 120.589,66.978 126.761,60.805 109.303,60.805"/>
+		<polygon fill="#ffffff" points="98.424,48.142 115.881,48.142 107.151,39.413"/>
+		<polygon fill="#ffffff" points="98.424,49.924 104.595,56.097 107.151,58.653 115.881,49.924"/>
+	</g>
+	<path id="Border" fill="#ffffff" d="M86,17v61h61V17H86z M143,74H90V21h53V74z"/>
+	<g id="Laptop">
+		<path fill="#ffffff" d="M142.193,273.109c-0.006,0.967-0.791,1.749-1.76,1.749H92.923c-0.968,0-1.752-0.782-1.76-1.749H23.067
+				h-9.321v2.839c0,2.279,2.473,4.129,5.523,4.129h145.356v-6.968H142.193z"/>
+		<rect fill="#ffffff" x="131.924" y="167.461" width="32.076" height="6.969"/>
+		<path fill="#ffffff" d="M37.598,262.693v-88.267h63.466v-6.968H34.759c-2.28,0-4.129,1.85-4.129,4.13v93.94
+			c0,2.279,1.849,4.13,4.129,4.13H164v-6.97H37.598V262.693z"/>
+		<path fill="#ffffff" d="M116.5,224.1l27.312-27.136h-15.291V174.43v-6.969v-24.176c0-1.151-0.301-2.008-0.918-2.619
+			c-0.621-0.622-1.479-0.921-2.621-0.921h-16.979c-1.088,0-1.935,0.305-2.579,0.933c-0.646,0.62-0.959,1.471-0.959,2.607v24.176
+			v6.968v22.535H89.186L116.5,224.1z"/>
+	</g>
+</g>
+</svg>

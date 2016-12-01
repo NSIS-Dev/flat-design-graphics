@@ -1,0 +1,1 @@
+# Flag Design Graphics for NSIS 3

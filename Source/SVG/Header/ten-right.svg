@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="150px"
-	 height="57px" viewBox="0 0 150 57" enable-background="new 0 0 150 57" xml:space="preserve">
-<g id="Background">
-	<rect fill="#04025c" width="150" height="57"/>
-</g>
-<g id="Foreground">
-	<g>
+	height="57px" viewBox="0 0 150 57" enable-background="new 0 0 150 57" xml:space="preserve">
+	<g id="Background">
+		<rect fill="#0078d7" width="150" height="57"/>
+	</g>
+	<g id="Foreground">
+		<g id="Logo">
 			<polygon fill="#ffffff" points="134.153,39.542 134.153,28.474 128.619,34.007"/>
 			<polygon fill="#ffffff" points="134.153,25.745 134.153,14.675 128.619,20.21"/>
 			<polygon fill="#ffffff" points="119.556,13.876 108.486,13.876 114.021,19.41"/>
@@ -22,6 +22,6 @@
 			<polygon fill="#ffffff" points="110.432,28.487 121.5,28.487 115.965,22.954"/>
 			<polygon fill="#ffffff" points="110.432,29.618 114.345,33.532 115.965,35.151 121.5,29.618"/>
 		</g>
-		<path fill="#ffffff" d="M102.555,8.743v38.676h38.676V8.743H102.555z M138.694,44.882h-33.604V11.279h33.604V44.882z"/>
+		<path id="Border" fill="#ffffff" d="M102.555,8.743v38.676h38.676V8.743H102.555z M138.694,44.882h-33.604V11.279h33.604V44.882z"/>
 	</g>
 </svg>

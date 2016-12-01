@@ -3,11 +3,10 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="164px"
 	 height="314px" viewBox="0 0 164 314" enable-background="new 0 0 164 314" xml:space="preserve">
 <g id="Background">
-	<rect fill="#04025c" width="164" height="314"/>
+	<rect fill="#0078d7" width="164" height="314"/>
 </g>
 <g id="Foreground" opacity="1">
 	<g id ="Logo">
-		<path id="Border" fill="#ffffff" d="M86,17v61h61V17H86z M143,74H90V21h53V74z"/>
 		<polygon fill="#ffffff" points="135.838,65.577 135.838,48.119 127.109,56.848"/>
 		<polygon fill="#ffffff" points="135.838,43.815 135.838,26.357 127.109,35.085"/>
 		<polygon fill="#ffffff" points="112.814,25.096 95.356,25.096 104.086,33.824"/>
@@ -23,6 +22,7 @@
 		<polygon fill="#ffffff" points="98.424,48.142 115.881,48.142 107.151,39.413"/>
 		<polygon fill="#ffffff" points="98.424,49.924 104.595,56.097 107.151,58.653 115.881,49.924"/>
 	</g>
+	<path id="Border" fill="#ffffff" d="M86,17v61h61V17H86z M143,74H90V21h53V74z"/>
 	<g id="Laptop">
 		<path fill="#ffffff" d="M142.193,273.109c-0.006,0.967-0.791,1.749-1.76,1.749H92.923c-0.968,0-1.752-0.782-1.76-1.749H23.067
 				h-9.321v2.839c0,2.279,2.473,4.129,5.523,4.129h145.356v-6.968H142.193z"/>
